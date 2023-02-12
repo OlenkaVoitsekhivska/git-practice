@@ -1,5 +1,1 @@
-console.log('purple');
-
-console.log('added another line');
-
-console.log('and this one');
+console.log('practice amend in purple');
